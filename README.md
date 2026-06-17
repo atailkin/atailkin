@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **ANYTHING. I might know or not, but i'll always try to help!**
 
-- 📫 How to reach me r_ac <a href="r_ac" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)" alt="r_ac" height="24" width="24" /></a>
+- 📫 How to reach me **r_ac** <a href="r_ac" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="r_ac" height="24" width="24" /></a>
 
 - ⚡ Fun fact **i love raccoons🥰**
 
