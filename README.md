@@ -1,4 +1,4 @@
-# Hi 👋, I'm atailkin
+# Helloooo, I'm racc
 
 ### Student at Sofia Technical University
 
