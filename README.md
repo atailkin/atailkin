@@ -6,7 +6,7 @@
 
 - 👯 I'm looking to collaborate on **Invitee-only projects**
 
-- 💬 Ask me about **ANYTHING. I might know or not, but i'll always try to help!**
+- 💬 Ask me about ANYTHING. I might know or not, but i'll always try to help! <img src="[https://animeheaven.me/emoji/ahwink.png](https://animeheaven.me/emoji/ahwink.png)" alt="wink" height="24" align="center" />
 
 - 📫 How to reach me **r_ac** <a href="r_ac" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="r_ac" height="24" width="24" /></a>
 
