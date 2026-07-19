@@ -10,8 +10,6 @@
 
 - 📫 How to reach me : **r_ac** <a href="r_ac" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="r_ac" height="24" width="24" /></a>
 
-- ⚡ Fun fact **i love raccoons🥰**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/atailkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="atailkin" height="30" width="40" /></a>
