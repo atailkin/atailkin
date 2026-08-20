@@ -1,4 +1,4 @@
-# Helloooo, I'm racc
+# Greetings, I'm racc
 
 ### Student at Sofia Technical University
 
